@@ -21,3 +21,7 @@ Este proyecto es una aplicación sencilla en JavaScript que permite agregar nomb
 2. Haz clic en **"Agregar"** para añadirlo a la lista.
 3. Cuando tengas varios nombres, haz clic en **"Sortear"** para elegir uno al azar.
 4. Puedes usar **"Restablecer"** para vaciar la lista en cualquier momento.
+
+## 💻 Deploy
+
+https://blangis.github.io/Amigo-Secreto/
